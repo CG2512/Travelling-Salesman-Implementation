@@ -1,0 +1,15 @@
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\bin\Debug\net6.0\TSP_naive.exe
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\bin\Debug\net6.0\TSP_naive.deps.json
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\bin\Debug\net6.0\TSP_naive.runtimeconfig.json
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\bin\Debug\net6.0\TSP_naive.dll
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\bin\Debug\net6.0\TSP_naive.pdb
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\obj\Debug\net6.0\TSP_naive.csproj.AssemblyReference.cache
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\obj\Debug\net6.0\TSP_naive.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\obj\Debug\net6.0\TSP_naive.AssemblyInfoInputs.cache
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\obj\Debug\net6.0\TSP_naive.AssemblyInfo.cs
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\obj\Debug\net6.0\TSP_naive.csproj.CoreCompileInputs.cache
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\obj\Debug\net6.0\TSP_naive.dll
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\obj\Debug\net6.0\refint\TSP_naive.dll
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\obj\Debug\net6.0\TSP_naive.pdb
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\obj\Debug\net6.0\TSP_naive.genruntimeconfig.cache
+E:\OneDrive - buv.edu.vn\DATABASE_STUCTURES\TSP_naive\TSP_naive\obj\Debug\net6.0\ref\TSP_naive.dll
