@@ -6,10 +6,10 @@
         {
             //   matrix representation of graph
             int[,] graph
-                = new int[4, 4] { { 0, 10, 15, 20 },
-                              { 10, 0, 35, 25 },
-                              { 15, 35, 0, 30 },
-                              { 20, 25, 30, 45 } };
+                = new int[4, 4] { { 0, 68, 34, 30 },
+                              { 67, 0, 52, 38 },
+                              { 31, 52, 0, 30 },
+                              { 30, 38, 30, 0 } };
             int s = 0;
             string[] cities = new string[] { "A", "B", "C", "D" };
             List<string> Path=travllingSalesmanProblem(cities,graph, s);
